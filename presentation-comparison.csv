@@ -1,0 +1,4 @@
+Model,Event_dates,Week,Matched,Events,Recall,Candidates_per_day,Catalogue_match_fraction,F2_proxy
+Single-station STA/LTA,13/19,4/7,17,26,0.654,28.857,0.071,0.249
+Standard multi-station trigger,16/19,5/7,21,26,0.808,32.857,0.075,0.273
+Travel-time-constrained association,15/19,6/7,21,26,0.808,22.429,0.112,0.361
